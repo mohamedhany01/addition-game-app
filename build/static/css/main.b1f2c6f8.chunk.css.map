@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/AdditionGame.css"],"names":[],"mappings":"AAAA,YACI,yDAAgD,CAChD,2BAA4B,CAC5B,uBAA2B,CAC3B,0BAAoB,CAApB,kBACJ","file":"main.b1f2c6f8.chunk.css","sourcesContent":[".right-side {\n    background-image: url('../src/img/right-bg.jpg');\n    background-attachment: fixed;\n    background-position: center;\n    filter: opacity(0.5);\n}"]}

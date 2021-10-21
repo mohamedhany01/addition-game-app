@@ -1,0 +1,6 @@
+.right-side {
+    background-image: url('../src/img/right-bg.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    filter: opacity(0.5);
+}
